@@ -35,3 +35,8 @@
     width: 1390px;
     height: 410px;
 }
+
+.emoji {
+    position: absolute;
+    left: 15px;
+}

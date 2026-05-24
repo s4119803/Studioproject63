@@ -8,3 +8,7 @@
 .menu { 
     margin-top: 300px;
 }
+.emoji {
+    position: absolute;
+    left: 15px;
+}
