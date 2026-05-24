@@ -1,0 +1,10 @@
+.menubox {
+    border: 2px solid;
+    width: 310px;
+    height: 1000px;
+    background-color: rgb(71, 34, 206);
+    margin-left: -10px;
+}
+.menu { 
+    margin-top: 300px;
+}
