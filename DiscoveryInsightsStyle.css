@@ -1,3 +1,7 @@
+.box {
+    border: 3px solid;
+    border-color: antiquewhite;
+}
 .menubox {
     border: 2px solid;
     width: 310px;
@@ -7,4 +11,27 @@
 }
 .menu { 
     margin-top: 300px;
+}
+#topbox {
+    margin-left: 305px;
+    margin-top: -1005px;
+    border-radius: 15px;
+    width: 1390px;
+    height: 150px;
+}
+
+#midbox {
+    margin-left: 305px;
+    margin-top: 0px;
+    border-radius: 15px;
+    width: 1390px;
+    height: 350px;
+}
+
+#bottombox {
+    margin-left: 305px;
+    margin-top: 0px;
+    border-radius: 15px;
+    width: 1390px;
+    height: 490px;
 }
