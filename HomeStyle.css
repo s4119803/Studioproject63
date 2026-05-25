@@ -40,3 +40,9 @@
     position: absolute;
     left: 15px;
 }
+
+.logo {
+    color: white;
+    line-height: 10px;
+    margin-left: 5px;
+}

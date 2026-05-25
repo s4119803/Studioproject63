@@ -12,3 +12,9 @@
     position: absolute;
     left: 15px;
 }
+
+.logo {
+    line-height: 10px;
+    margin-left: 5px;
+    color: white;
+}
